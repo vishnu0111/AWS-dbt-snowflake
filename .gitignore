@@ -1,0 +1,18 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Bytecode and cache
+__pycache__/
+*.pyc
+
+# DBT artifacts
+target/
+dbt_packages/
+logs/
+
+# VS Code settings
+.vscode/
+
+# Lock files and Python package manager folders
+uv.lock

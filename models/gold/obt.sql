@@ -6,7 +6,7 @@
     },
     {
         "table" : "airbnb.silver.silver_listings",
-        "columns": "silver_listings.host_id, silver_listings.room_type, 
+        "columns": "silver_listings.host_id,silver_listings.property_type,silver_listings.room_type, 
                     silver_listings.city, silver_listings.country, silver_listings.accommodates, silver_listings.bedrooms, 
                     silver_listings.bathrooms, silver_listings.price_per_night,silver_listings.price_per_night as silver_price_per_night, 
                     silver_listings.created_at as listings_created_at",

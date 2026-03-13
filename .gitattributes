@@ -1,0 +1,5 @@
+# Set all text files to use LF line endings in repo
+* text=auto
+*.py text eol=lf
+*.toml text eol=lf
+*.sh text eol=lf

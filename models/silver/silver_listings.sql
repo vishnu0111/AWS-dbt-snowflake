@@ -8,6 +8,7 @@
 select 
     listing_id,
     host_id,
+    PROPERTY_TYPE,
     room_type,
     city,
     country,
